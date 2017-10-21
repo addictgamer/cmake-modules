@@ -1,4 +1,4 @@
-# Cmake Modules/Build Scripts
+# Cmake Modules/Find Scripts
 
 Various cmake find modules/scripts I've written for different libraries.
 
